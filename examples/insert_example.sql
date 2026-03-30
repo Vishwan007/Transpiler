@@ -1,0 +1,6 @@
+-- INSERT multiple rows
+INSERT INTO users (id, name, email)
+VALUES 
+    (1, 'John Doe', 'john@example.com'),
+    (2, 'Jane Smith', 'jane@example.com'),
+    (3, 'Bob Johnson', 'bob@example.com');
